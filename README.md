@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🪙 Opinifi — Opinions That Pay
 
 > Share opinions across sports, news, politics, tech & brands. Earn OP Coins. Redeem for real cash via UPI or Bank Transfer.
@@ -248,3 +249,7 @@ Set `NODE_ENV=production`, update `MONGO_URI` to Atlas, set `CLIENT_URL` to your
 ## 📄 License
 
 MIT — built with ❤️ for the Opinifi platform.
+=======
+# opinion-web
+>>>>>>
+> 361aec827e7d0b5407e5e27130128fe630ddb136
